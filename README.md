@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AKASmaug
-- 👀 I’m interested in QA manual testing
-- 🌱 I’m currently learning manual and automatic testing products
+- 👀 I’m interested in QA manual/auto testing
 - 💞️ I’m looking to collaborate on new intresting cases
 - 📫 How to reach me tg @smgftr
 
